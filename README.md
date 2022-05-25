@@ -12,4 +12,48 @@ Lišty pro Z osy nasadíme na své místo levou lištu poznáme podle toho, že 
 
 **2) Instalace motoru Z-os a šroubu, který zvedá osu Z**
 Je potřeba přiložit motor k ose tak aby šroub byl zhruba uprostřed osy Z
+
 ![image](https://user-images.githubusercontent.com/97744358/170334960-ce428bb6-52c9-4ce1-85bc-6c105bc0ea78.png)
+
+**3) Instalace trysky a sestavení a jezdce po ose Z**
+V tomto kroku budeme instalovat jezdce, který bude vozit trysku po ose Z pás je potřeba utáhnout tak, aby nebyl volný, ale ani příliš utažený
+Kolečka, která se dotýkají osy by měly být lehce utažené tak aby se volně protáčely.
+
+![image](https://user-images.githubusercontent.com/97744358/170338627-169d01aa-6578-45e2-9cb3-7ab3d39ecb2f.png)
+![image](https://user-images.githubusercontent.com/97744358/170339123-8e4d745a-f827-4054-abc0-fe1165b8e4b4.png)
+<sub>Zdroj:https://docs.sainsmart.com/article/fkyuwu4jhq-ender-3-v-2-3-d-printer </sub>
+
+**4) Nasazení lišty s jezdcem na tiskárnu**
+
+Poté co máme vše nastavené a jezdec hladce jezdí po liště můžeme zasunout do již nainstalovaných Z-os a na vrch dáme lištu, podel které srovnáme neutažené Z-osy tak aby byl v pravém úhlu. Pokud jsme spokojeni utáhneme všechny šrouby, které jsme v minulých krocích ještě nedotáhly.
+
+![image](https://user-images.githubusercontent.com/97744358/170340206-a4696065-a220-41d2-bbf5-ec29b32d0081.png)
+
+**5) Instalování displeje a zapojení káblíků**
+
+Displej lehce zasuneme do držáku, který si na pravý bok přišroubujeme 
+
+![image](https://user-images.githubusercontent.com/97744358/170340601-1d06916c-0a85-43b1-a620-ea5da4945972.png)
+
+*Zapojení kabelů:*
+
+![image](https://user-images.githubusercontent.com/97744358/170342054-c523a335-c5bc-4560-a742-4a9e62bf9447.png)
+
+**6) Přidělání držáku na filament a věci, na které si dát pozor před zapnutím**
+
+Držák na filament lehce přiděláme na zadní stranu nejvyšší lišty.
+
+Před zapnutím je potřeba ze zadu zkontrolovat, jaké napětí máme vybrané, jelikož tiskárna je přizbůsobena i do USA.
+
+![image](https://user-images.githubusercontent.com/97744358/170343014-21aba1f4-2e06-4fce-b6fe-56d8f7efab1d.png)
+
+Nyní máme hotovo stačí vložit přibalenou mini SD kartu a můžeme začít tisknout. 
+
+Plochu, na kterou se bude tisknout kalibrujeme pomocí otačivých koleček pod ní jednoduše tím že pod trysku dáme papír a v každém rohu prozkoušíme tak aby papír lehce prolezl pod tryskou.
+
+
+
+*(Zdroje: https://docs.sainsmart.com/article/fkyuwu4jhq-ender-3-v-2-3-d-printer , https://3delectronic.com/2020/12/04/ender-3-v2-installation-pictures/ )*
+
+
+
