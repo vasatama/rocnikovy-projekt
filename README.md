@@ -53,7 +53,7 @@ Plochu, na kterou se bude tisknout kalibrujeme pomocí otačivých koleček pod 
 
 
 
-*(Zdroje: https://docs.sainsmart.com/article/fkyuwu4jhq-ender-3-v-2-3-d-printer , https://3delectronic.com/2020/12/04/ender-3-v2-installation-pictures/ )*
+*(Zdroje: https://docs.sainsmart.com/article/fkyuwu4jhq-ender-3-v-2-3-d-printer )*
 
 
 
