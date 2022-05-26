@@ -37,7 +37,7 @@ Displej lehce zasuneme do držáku, který si na pravý bok přišroubujeme
 
 *Zapojení kabelů:*
 
-![image](https://user-images.githubusercontent.com/97744358/170342054-c523a335-c5bc-4560-a742-4a9e62bf9447.png)
+![image](https://user-images.githubusercontent.com/97744358/170484946-74602711-92c8-4d8d-97d3-0958d33b4d95.png)
 
 **6) Přidělání držáku na filament a věci, na které si dát pozor před zapnutím**
 
@@ -45,7 +45,7 @@ Držák na filament lehce přiděláme na zadní stranu nejvyšší lišty.
 
 Před zapnutím je potřeba ze zadu zkontrolovat, jaké napětí máme vybrané, jelikož tiskárna je přizbůsobena i do USA.
 
-![image](https://user-images.githubusercontent.com/97744358/170343014-21aba1f4-2e06-4fce-b6fe-56d8f7efab1d.png)
+![image](https://user-images.githubusercontent.com/97744358/170484784-30b68313-516c-4187-acb2-03a301f23d85.png)
 
 Nyní máme hotovo stačí vložit přibalenou mini SD kartu a můžeme začít tisknout. 
 
